@@ -2,7 +2,7 @@ module github.com/acend/cilium-basics-training
 
 go 1.19
 
-require github.com/cilium/ebpf v0.12.0
+require github.com/cilium/ebpf v0.12.2
 
 require (
 	github.com/acend/docsy-acend v0.0.0-20230301101952-9253f0a31c68 // indirect
